@@ -1,46 +1,31 @@
-1.boyinggong_num_solution.py
+# Stat 159 Code Review Practice
 
-a.extract
+1. `boyinggong_num_solution.py`
 
-b.get_position 
+    * extract:
+    * get_position:
+    * get_index:
 
-c.get_index
+2. jara_num_solutions.py
 
+    * extract:
+    * get_position:
+    * get_index:
 
+3. pigriver123_num_solutions.py
 
-2.jara_num_solutions.py
-
-a.extract
-
-b.get_position 
-
-c.get_index
-
-
-
-3.pigriver123_num_solutions.py
-
-a.extract
-
-b.get_position 
-
-c.get_index
-
+    * extract:
+    * get_position:
+    * get_index:
 
 4. shishido_num_solutions.py
 
-a.extract
+    * extract:
+    * get_position:
+    * get_index:
 
-b.get_position 
+5. siyaochang_num_solutions.py
 
-c.get_index
-
-
-5.siyaochang_num_solutions.py
-
-a.extract
-
-b.get_position 
-
-c.get_index
-
+    * extract:
+    * get_position:
+    * get_index:
